@@ -1,10 +1,10 @@
 # Sticker Smash
 
-> Sticker Smash is a cross platform application for Android, IOS, and Browser built with React Native & Expo.
+> Sticker Smash is a cross platform application for Android, IOS, and Web Browser built with React Native & Expo.
 
 <img src="./assets/screenshot.png">
 
-Sticker Smash is a cross platform application for Android, IOS, and Browser built with React Native & Expo that allows users to edit photos and add stickers to it.
+Sticker Smash is a cross platform application for Android, IOS, and Web Browser built with React Native & Expo that allows users to edit photos and add stickers to it.
 
 <!-- toc -->
 
